@@ -1,0 +1,1 @@
+Ce projet a pour but d'apprendre l'utilisation de git et son interaction avec github.
